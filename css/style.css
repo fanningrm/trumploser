@@ -1,2 +1,14 @@
 /*Default styles*/
 
+html {
+    width: 100%;
+    height: 100%;
+}
+
+body {
+	background-image: "img/background.png";
+	width: 100%;
+    height: 100%;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    color: #fff;
+}
